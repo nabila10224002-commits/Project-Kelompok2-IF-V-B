@@ -8,3 +8,5 @@
 4. Rivki
 5. Rozan
 6. Shiva
+## Kontribusi
+Penambahan informasi anggota kelompok.
