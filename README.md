@@ -6,5 +6,5 @@
 2. Nugraha Yudhasyah
 3. Nada
 4. Rivki
-5. Rozan
+5. Rozan Ahmad Fawwazi
 6. Shiva
